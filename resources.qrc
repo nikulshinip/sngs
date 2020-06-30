@@ -1,0 +1,6 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource prefix="/image">
+		<file alias="folder.png">ui/image/folder.png</file>
+	</qresource>
+</RCC>
